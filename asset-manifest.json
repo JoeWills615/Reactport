@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/JoeWills615/Reactport/static/css/main.5f361e03.chunk.css",
+    "main.js": "/JoeWills615/Reactport/static/js/main.09c5c0ba.chunk.js",
+    "main.js.map": "/JoeWills615/Reactport/static/js/main.09c5c0ba.chunk.js.map",
+    "runtime-main.js": "/JoeWills615/Reactport/static/js/runtime-main.58820848.js",
+    "runtime-main.js.map": "/JoeWills615/Reactport/static/js/runtime-main.58820848.js.map",
+    "static/js/2.0d6aa5c3.chunk.js": "/JoeWills615/Reactport/static/js/2.0d6aa5c3.chunk.js",
+    "static/js/2.0d6aa5c3.chunk.js.map": "/JoeWills615/Reactport/static/js/2.0d6aa5c3.chunk.js.map",
+    "index.html": "/JoeWills615/Reactport/index.html",
+    "precache-manifest.5bad894fe72348027b91f658ab2a16dc.js": "/JoeWills615/Reactport/precache-manifest.5bad894fe72348027b91f658ab2a16dc.js",
+    "service-worker.js": "/JoeWills615/Reactport/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/JoeWills615/Reactport/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.0d6aa5c3.chunk.js.LICENSE.txt": "/JoeWills615/Reactport/static/js/2.0d6aa5c3.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/JoeWills615/Reactport/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.58820848.js",
+    "static/js/2.0d6aa5c3.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.09c5c0ba.chunk.js"
+  ]
+}
